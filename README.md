@@ -8,7 +8,7 @@ Inquirer.js\
 Commander.js
 
 # command 
-`npm install \
+npm install \
 node index.js add \
-node index.js list`
+node index.js list
 
