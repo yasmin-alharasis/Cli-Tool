@@ -3,12 +3,12 @@
 
 # This tool use:
 
-`node Js <br>
-Inquirer.js<br>
-Commander.js`
+node Js \
+Inquirer.js\
+Commander.js
 
 # command 
-`npm install <br>
-node index.js add <br>
+`npm install \
+node index.js add \
 node index.js list`
 
